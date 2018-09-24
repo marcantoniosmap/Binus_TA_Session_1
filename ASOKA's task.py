@@ -1,3 +1,4 @@
+print("diamond")
 time = input("Time spent on the road:")
 acceleration = input("Acceleration: ")
 distanceinput = input("Distance: ")
@@ -27,4 +28,4 @@ if distance >= distanceinput:
 else:
     print("The person didn't reach the destination.")
 
-
+print("diamond")

@@ -1,7 +1,3 @@
-x=1
-while x<6:
-    print("*****")
-    x=x+1
 
 y=1
 while y<6:
@@ -50,3 +46,13 @@ while mn < yy:
             break
 
 
+f=5
+while f>0:
+    d=5-f
+    print(d*" ", f*"*")
+    f=f-1
+k=5
+while k>0:
+    l=5-k
+    print( k*"*",l*" ")
+    k=k-1
